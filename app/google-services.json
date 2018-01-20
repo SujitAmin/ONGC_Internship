@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "874871879435",
+    "firebase_url": "https://ongctelephone-57cad.firebaseio.com",
+    "project_id": "ongctelephone-57cad",
+    "storage_bucket": "ongctelephone-57cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874871879435:android:f51cafc64c42a3dc",
+        "android_client_info": {
+          "package_name": "ongcphonebook.com.ongctelephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874871879435-3546pj73gcvpseifgn9riqi3tllda9qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ongcphonebook.com.ongctelephone",
+            "certificate_hash": "537962ede2635487f660f8a70361cc376c4403d0"
+          }
+        },
+        {
+          "client_id": "874871879435-l9cp37biarkag76o4fvt6mov9g8iv93v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ongcphonebook.com.ongctelephone",
+            "certificate_hash": "2cf8c10cb830d6a37c95866e0282961afad18061"
+          }
+        },
+        {
+          "client_id": "874871879435-c8t86fleqa3lbhom0hibm8kf0mljujnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0CRJDx_ZCoZZF3hoQ41p88u0HvdxC9qQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874871879435-c8t86fleqa3lbhom0hibm8kf0mljujnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
