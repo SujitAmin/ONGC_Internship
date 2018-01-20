@@ -29,7 +29,7 @@ public class ListViewAdapter extends BaseAdapter {
         this.arrayList = new ArrayList();
         this.arrayList.addAll(list);
 
-    }
+    }// tis is very useful
 
     /*
     enable aggressive block sorting
