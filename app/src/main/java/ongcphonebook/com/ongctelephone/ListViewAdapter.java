@@ -36,6 +36,7 @@ public class ListViewAdapter extends BaseAdapter {
      */
     public void filter(String string2) {
         String string3 = string2.toLowerCase();
+        String string4 = string2.toLowerCase();
         this.worldPopulationList.clear();
         if (string3.length() == 0) {
             this.worldPopulationList.addAll(this.arrayList);
